@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .error {color: #FF0000;}
+        </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<form method="POST" action="phpform.php">
+Name: <input type="text" name="name">
+<span class="error">* </span><br><br>
+E-mail: <input type="email" name="email">
+<span class="error">* </span><br><br>
+Password: <input type="password" name="pass">
+<span class="error">* </span><br><br>
+Confirm Password: <input type="password" name="cpass">
+<span class="error">* </span><br><br>
+Mobile No.: <input type="text" name="number">
+<span class="error">* </span><br><br>
+Feedback: <br><textarea name="message" rows="5" cols="40"></textarea>
+<span class="error">* </span><br><br>
+<input type="submit" name="submit" value="Submit">
+            
+
+        </form>
+</body>
+</html>
