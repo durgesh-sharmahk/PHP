@@ -1,1 +1,5 @@
-This is just a registration form wherein any user can enter their credentials such as name, email id, password. after submitting the credentials the database with their information will be displayed. When you check the database, the information entered by the user gets stored. 
+This is just a registration form wherein any user can
+enter their credentials such as name, email id, 
+password. after submitting the credentials the 
+database with their information will be displayed.
+When you check the database, the information entered by the user gets stored. 
