@@ -1,0 +1,4 @@
+This is registraton form wherin the user enters their credentials and these
+credentials gets stored in the database. If the email id is already registered, 
+that is, if the email with which the user is trying to register is already stored
+in the database then the user is required to use another mail id. 
